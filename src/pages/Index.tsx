@@ -112,7 +112,7 @@ const AboutMe = () => (
           <div className="relative group">
             <div className="aspect-square overflow-hidden">
               <img
-                src="/gib-kunal.jpg"
+                src="/gib-kunal.png"
                 alt="Kunal Jadhav portrait"
                 loading="lazy"
                 decoding="async"
