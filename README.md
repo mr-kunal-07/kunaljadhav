@@ -104,7 +104,7 @@ You can also connect a custom domain via **Project → Settings → Domains** on
 
 I'm always open to collaborating on exciting full-stack projects!
 
-- 🌐 **Portfolio:** [kunaljadhav.vercel.app](https://kunaljadhav.vercel.app)
+- 🌐 **Portfolio:** [kunaljadhav.vercel.app](https://kunaltech.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/kunaljadhav4295](https://linkedin.com/in/kunaljadhav4295)
 - 🐦 **Twitter:** [@_kunaljadhav_23_](https://twitter.com/_kunaljadhav_23_)
 - 💻 **GitHub:** [@mr-kunal-07](https://github.com/mr-kunal-07)
